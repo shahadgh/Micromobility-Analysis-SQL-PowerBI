@@ -5,7 +5,7 @@ A data analytics project focusing on micromobility revenue, profitability, and r
 
 
 
-
+---------------
 **Performance & Pricing Overview (2021 to 2022)**
 
 The Scooter service demonstrated significant growth despite a substantial price increase.
