@@ -15,6 +15,10 @@ The Scooter service demonstrated significant growth despite a substantial price 
 •	Ridership Growth: Despite the price increase, Riders increased substantially, rising from 1.24 Million to 2.05 Million (a 65% increase).
 
 •	Profit Improvement: Profit also saw a significant improvement (specific percentage is redacted but growth is implied as substantial). This successful performance suggests that riders were relatively insensitive to the price change last year, likely due to external growth.
+
+<img width="1858" height="1044" alt="PowerBi" src="https://github.com/user-attachments/assets/cb055b00-bc89-4a2d-98ac-f41ba8478a2e" />
+
+
 ________________________________________
 **Price Elasticity of Demand (PED) Interpretation**
 
