@@ -19,7 +19,7 @@ The Scooter service demonstrated significant growth despite a substantial price 
 <img width="1858" height="1044" alt="PowerBi" src="https://github.com/user-attachments/assets/cb055b00-bc89-4a2d-98ac-f41ba8478a2e" />
 
 
-________________________________________
+
 **Price Elasticity of Demand (PED) Interpretation**
 
 The calculated Price Elasticity of Demand provides a critical economic context for future strategy.
@@ -39,7 +39,7 @@ Future price adjustments must be cautious to avoid hitting a price sensitivity t
 •	Specific Target: Target a 10% price increase for the upcoming year (2023), setting the New Average Price Target at $5.49 (from $\$4.99$).
 
 
-
+________________________________________
 **This moderate increase aims to:**
 
 o	Maintain the current high profitability.
